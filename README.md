@@ -1,6 +1,8 @@
 
 # "Dummy Switches and Contact" Plugin
 
+## This Repository has been Archived.  This code was merged into homebridge-dummy-contact, and ownership of the Repository was transferred to me.
+
 Example config.json:
 
 ```
